@@ -23,10 +23,10 @@ h1{
     font-size:60px;
 }
 img{
-    width:200px;
-    height: 200px;
+    width:70px;
+    height: 70px;
     float: right;
-    border-radius:60%;
+    border-radius:40%;
 }
 h2{
     background-image: linear-gradient(to right, #d8e129 0%, #fbff00 100%);
