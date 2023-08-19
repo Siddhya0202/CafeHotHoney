@@ -26,7 +26,7 @@ img{
     width:70px;
     height: 70px;
     float: right;
-    border-radius:40%;
+    border-radius:50%;
 }
 h2{
     background-image: linear-gradient(to right, #d8e129 0%, #fbff00 100%);
