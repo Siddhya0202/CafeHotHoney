@@ -47,6 +47,16 @@ h3{
     font-size:40px;
     font-family:'Times New Roman', Times, serif;
 }
+h4{
+    background-image: linear-gradient(to right, #d8e129 0%, #fbff00 100%);
+    color: transparent;
+    
+    -webkit-background-clip: text;
+    text-align:center;
+    font-size:40px;
+    font-family:'Times New Roman', Times, serif;
+}
+
 ul{
     font-size: 30px;
     color:#d5d89a
@@ -107,7 +117,7 @@ h3{
     h2{
         font-size:18px ;
     }
-    h3{
+    h5{
         font-size: 18px;
    }}
 
