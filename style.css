@@ -38,7 +38,7 @@ h2{
 }
 
 
-h4{
+h3{
     background-image: linear-gradient(to right, #d8e129 0%, #fbff00 100%);
     color: transparent;
     
@@ -62,7 +62,7 @@ a:hover{
 a:active{
     color:rgb(0, 0, 0);
 }
-h4{
+h3{
     font-size:30px; 
     text-align:center;
     color:#fff;
@@ -107,7 +107,7 @@ h4{
     h2{
         font-size:18px ;
     }
-    h4{
+    h3{
         font-size: 18px;
    }}
 
